@@ -7,8 +7,8 @@ TestDefault {
 
 
         System.out.println("This is the first test");
-        System.out.println("This is the second test");
-
+//        System.out.println("This is the second test");
+        // The second line deleted
 
     }
 
