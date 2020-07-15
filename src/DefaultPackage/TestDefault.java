@@ -10,6 +10,8 @@ TestDefault {
 //        System.out.println("This is the second test");
         // The second line deleted
 
+        System.out.println("Can you see me?");
+
     }
 
 
